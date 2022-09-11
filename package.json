@@ -14,7 +14,9 @@
   "devDependencies": {
     "webpack-dev-server": "^4.2.0"
   }
-}
+
  "scripts": {
           "start": "..."
       },
+}
+ 
